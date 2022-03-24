@@ -1,1 +1,12 @@
-# tekweb2022
+<html>
+
+<head>
+    <title>Page Tittle</title>
+    <h1><b> First Heading</b></h1>
+</head>
+
+<body>
+    My first paragraph.
+</body>
+
+</html>
